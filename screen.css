@@ -1,0 +1,18 @@
+.body{
+    background:#F4D03F  ;
+  }
+  .image1{
+    margin:5px;
+    padding:2%;
+   
+  }
+  .header{
+    border:1px solid black;
+    height:20%;
+    background:#A9CCE3   ;
+    margin:3px;
+    text-align:center;
+  }
+  .qq{
+    list-style-type:square;
+  }
